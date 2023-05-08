@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1176867",
+      "name": "checkbox-checked-o",
+      "font_class": "checked",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "1176869",
+      "name": "checkbox-unchecked",
+      "font_class": "unchecked",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    }
+  ]
+}
